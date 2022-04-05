@@ -24,7 +24,7 @@
   --mb-4: 2rem;
   --mb-5: 2.5rem;
   --mb-6: 3rem;
-  
+
   /*===== z index =====*/
   --z-back: -10;
   --z-fixed: 100;
@@ -531,4 +531,10 @@ img {
   .home__img {
     width: 450px;
   }
+}
+
+#nameAnimation {
+font-size: 50px;
+padding-top: 250px;
+padding-left: 240px;
 }
